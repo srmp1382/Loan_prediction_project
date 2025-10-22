@@ -5,12 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bf17d486-2aad-4213-9cc7-d71bf78159b2" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/test_loan.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Loan_prediction_project.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Loan_prediction_project.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/loan_prediction.py" beforeDir="false" afterPath="$PROJECT_DIR$/loan_prediction.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.venv/.github/workflows/automate.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.github/workflows/automate.yml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,6 +55,7 @@
 }</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
       <recent name="C:\Users\NSB Academy\Documents\Loan_prediction_project" />
     </key>
   </component>
