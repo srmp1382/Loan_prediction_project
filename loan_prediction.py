@@ -11,6 +11,10 @@ app=Flask(__name__)
 def home():
     return "This is my nice home page\n I am still learning it"
 
+@app.route('/test_page')
+def new_page():
+    return "This is a test page\nCheck if this works"
+
 @app.route('/display', methods=['POST'])
 def display():
     with open('my_classifier.pkl', 'rb') as file_name:
